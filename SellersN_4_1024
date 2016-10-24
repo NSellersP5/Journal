@@ -1,0 +1,9 @@
+
+#include <stdio.h>
+
+int main() {
+        printf("Hello World! \n");
+        printf("I AM A GOD!!!\n");
+        return 0;
+}
+
